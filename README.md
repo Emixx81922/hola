@@ -1,1 +1,1 @@
-# hola
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="AMBA", GARAGE TV https://cougar.jawcloud.co/hls/baxpnaoumjts7n2gmizooxp2d2v66up4dblafojcfuacbio3l5aa2n74fs5q/index-v1-a1.m3u8
